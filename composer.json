@@ -1,0 +1,6 @@
+{
+    "name" : "Uno Calc",
+    "require" : {
+        "nikic/fast-route": "dev-master"
+    }
+}
